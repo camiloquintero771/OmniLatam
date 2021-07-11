@@ -2,6 +2,7 @@ from django.contrib import admin
 from .models import Order, OrderDetail
 from rangefilter.filters import DateRangeFilter
 
+
 class OrderInline(admin.TabularInline):
     model = OrderDetail
     extra = 1
