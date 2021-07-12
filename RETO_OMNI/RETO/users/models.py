@@ -32,7 +32,7 @@ class Notification(models.Model):
                              verbose_name="Usuario")
 
     class Meta:
-        verbose_name = "Notificacíon"
+        verbose_name = "Notificación"
         verbose_name_plural = "Notificaciones"
 
     def __str__(self):
