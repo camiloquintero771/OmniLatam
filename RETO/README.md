@@ -1,4 +1,4 @@
-# Inventory 
+# e-commerce 
 It's a project part of the technical test of the company OMNILATAM
     
 ## Initial setup    
