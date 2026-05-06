@@ -1,6 +1,6 @@
 # OmniLatam — E-commerce API
 
-API REST construida con Django y Django REST Framework como parte de una prueba técnica para OmniLatam. Implementa el backend de un e-commerce básico con catálogo de productos, gestión de órdenes y persistencia en PostgreSQL, todo orquestado con Docker.
+API REST construida con Django y Django REST Framework como parte de una prueba técnica. Implementa el backend de un e-commerce básico con catálogo de productos, gestión de órdenes y persistencia en PostgreSQL, todo orquestado con Docker.
 
 > 📌 Proyecto creado en 2021. Refleja mis fundamentos de Django y arquitectura de APIs en ese momento. Los proyectos más recientes muestran prácticas actualizadas.
 
